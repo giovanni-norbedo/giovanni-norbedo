@@ -46,7 +46,7 @@
   I am open to internships and employment opportunities.
 </div>
 
-<br><br><br><br>
+<br><br>
 
 ## Technologies & Tools
 
