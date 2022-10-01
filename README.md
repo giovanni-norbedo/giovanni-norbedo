@@ -46,14 +46,19 @@
   I am open to internships and employment opportunities.
 </div>
 
-<br><br>
+<br>
 
 ## Technologies & Tools
 
 <div>
+  <img src="https://img.shields.io/badge/ASM-555555?style=for-the-badge" alt="ASM Badge">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" alt="C Badge"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy Badge">
+  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter Badge">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" alt="Google Colab Badge">
   <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" alt="FastAPI Badge"/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge"/>
@@ -71,9 +76,18 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" alt="Vue.js Badge">
-  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" alt="SQLite Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
+  <img src="https://img.shields.io/badge/Nextra-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Nextra Badge">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase Badge">
+  <img src="https://img.shields.io/badge/Appsmith-FF6D2D?style=for-the-badge" alt="Appsmith Badge">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel Badge">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" alt="Netlify Badge">
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge" alt="Stripe Badge">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=fff&style=for-the-badge" alt="Twilio Badge">
+  
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" alt="SQLite Badge"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge" alt="GNU%20Bash Badge"/>
   <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge" alt="tmux Badge">
@@ -86,4 +100,5 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge" alt="Windows Badge">
   <img src="https://img.shields.io/badge/-LMMS-10B146?logo=LMMS&logoColor=white&style=for-the-badge" alt="LMMS Badge"/>
   <img src="https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=for-the-badge" alt="Valorant Badge">
+  <img src="https://img.shields.io/badge/Counter--Strike-000?logo=counterstrike&logoColor=fff&style=for-the-badge" alt="Counter-Strike Badge">
 </div>
