@@ -29,7 +29,7 @@
   I'm Giovanni Norbedo and I live in Trieste, Italy. 
 
   I am a student at the Liceo Scientifico Guglielmo Oberdan in Trieste. 
-  I will be studying Informatics at the University of Trieste next year.
+  I will be studying Informatics at the University of Venice next year.
 
   Technology has always been a passion of mine, and I've been programming since I was ten years old. 
   I have developed several web and mobile applications.
