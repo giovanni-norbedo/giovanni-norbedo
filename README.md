@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff&style=for-the-badge" alt="DaisyUI Badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" alt="Node.js Badge"/>
@@ -84,7 +85,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" alt="Netlify Badge">
   <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge" alt="Stripe Badge">
   <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=fff&style=for-the-badge" alt="Twilio Badge">
-  
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" alt="SQLite Badge"/>
