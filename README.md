@@ -1,4 +1,4 @@
-## Hello!
+## > Hi!
 
 <div>
   <a href="https://norbedo.xyz">
@@ -24,26 +24,16 @@
 <br>
 
 <div>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=beabj6zu0ir9c60jp4vqt1312&cover_image=true&theme=default&bar_color_cover=false" alt="Spotify Widget" align="right"/>
-  
   I'm Giovanni Norbedo and I live in Trieste, Italy. 
 
-  I am a student at the Liceo Scientifico Guglielmo Oberdan in Trieste. 
-  I will be studying Informatics at the University of Venice next year.
+  I'm currently a first-year student of Artificial Intelligence and Data Analytics at the University of Trieste.
 
-  Technology has always been a passion of mine, and I've been programming since I was ten years old. 
-  I have developed several web and mobile applications.
-  I have been learning ASM and C to gain a better understanding of low-level programming. 
-  My recent interests include statistics, machine learning, data analysis and visualization.
+  Technology has always fascinated me, which is why I began coding at the age of ten and have since created numerous web (Django, DRF, React) and mobile (Flutter) applications. I'm also passionate about penetration testing and regularly engage in activities like Hack The Box and Capture The Flag challenges.
 
-  As a curious person, I like to explore new horizons and try out the latest tools.  
-  Aside from technology, I am a member of a basketball team.  
-  I enjoy playing chess, Valorant, and NBA2K.  
-  I enjoy making techno music with LMMS and a myriad of plug-ins.  
-  EDM, DnB, and electronica are some of my favorite genres.  
-  I like reading and coffee and drinking coffee in coffee shops.  
+  I am pursuing a 3-year program with a total of 180 university credits. My studies encompass mathematics, computer science, and artificial intelligence, covering subjects like programming (C, Python, R, SQL, DSA), mathematics, statistics, and AI ethics. In my final year, I delve deeper into machine learning and complex systems.
 
-  I am open to internships and employment opportunities.
+  As a curious person, I like to explore new horizons and try out the latest tools. 
+  In my free time, I enjoy reading, drinking coffee, making techno music, playing basketball and chess.
 </div>
 
 <br>
@@ -56,15 +46,11 @@
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy Badge">
-  
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter Badge">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" alt="Google Colab Badge">
   <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" alt="FastAPI Badge"/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge"/>
   <img src="https://img.shields.io/badge/-Django%20REST%20Framework-A30000?logo=django&logoColor=white&style=for-the-badge" alt="Django REST Framework Badge"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=fff&style=for-the-badge" alt="Celery Badge">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" alt="Redis Badge">
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=for-the-badge" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
@@ -73,18 +59,14 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff&style=for-the-badge" alt="DaisyUI Badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" alt="Vue.js Badge">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
   <img src="https://img.shields.io/badge/Nextra-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Nextra Badge">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase Badge">
-  <img src="https://img.shields.io/badge/Appsmith-FF6D2D?style=for-the-badge" alt="Appsmith Badge">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel Badge">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" alt="Netlify Badge">
-  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge" alt="Stripe Badge">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=fff&style=for-the-badge" alt="Twilio Badge">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" alt="SQLite Badge"/>
@@ -97,8 +79,15 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" alt="VirtualBox Badge">
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian Badge">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="Ubuntu Badge">
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge" alt="Windows Badge">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Kali Linux Badge">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="Hack The Box Badge">
   <img src="https://img.shields.io/badge/-LMMS-10B146?logo=LMMS&logoColor=white&style=for-the-badge" alt="LMMS Badge"/>
   <img src="https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=for-the-badge" alt="Valorant Badge">
   <img src="https://img.shields.io/badge/Counter--Strike-000?logo=counterstrike&logoColor=fff&style=for-the-badge" alt="Counter-Strike Badge">
 </div>
+
+<br>
+
+## I'm listening to...
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=beabj6zu0ir9c60jp4vqt1312&cover_image=true&theme=default&bar_color_cover=false" alt="Spotify Widget"/>
