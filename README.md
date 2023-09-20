@@ -30,7 +30,7 @@
 
   Technology has always fascinated me, which is why I began coding at the age of ten and have since created numerous web (Django, DRF, React) and mobile (Flutter) applications. I'm also passionate about penetration testing and regularly engage in activities like Hack The Box and Capture The Flag challenges.
 
-  I am pursuing a 3-year program with a total of 180 university credits. My studies encompass mathematics, computer science, and artificial intelligence, covering subjects like programming (C, Python, R, SQL, DSA), statistics and AI ethics. In my final year, I delve deeper into machine learning and complex systems.
+  I am pursuing a 3-year program with a total of 180 university credits. My studies will encompass mathematics, computer science, and artificial intelligence, covering subjects like programming (C, Python, R, SQL, DSA), statistics and AI ethics. In my final year, I will delve deeper into machine learning and complex systems.
 
   As a curious person, I like to explore new horizons and try out the latest tools. 
   In my free time, I enjoy reading, drinking coffee, making techno music, playing basketball and chess.
