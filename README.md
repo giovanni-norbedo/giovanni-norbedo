@@ -24,16 +24,13 @@
 <br>
 
 <div>
-  I'm Giovanni Norbedo and I live in Trieste, Italy. 
+First-year student in Artificial Intelligence and Data Analytics at the University of Trieste.
 
-  I'm currently a first-year student of Artificial Intelligence and Data Analytics at the University of Trieste.
+Coding enthusiast since age 10, proficient in web (Django, DRF, React) and mobile (Flutter) app development.
 
-  Technology has always fascinated me, which is why I began coding at the age of ten and have since created numerous web (Django, DRF, React) and mobile (Flutter) applications. I'm also passionate about penetration testing and regularly engage in activities like Hack The Box and Capture The Flag challenges.
+Active participant in penetration testing activities like Hack The Box and Capture The Flag challenges.
 
-  I am pursuing a 3-year program with a total of 180 university credits. My studies will encompass mathematics, computer science, and artificial intelligence, covering subjects like programming (C, Python, R, SQL, DSA), statistics and AI ethics. In my final year, I will delve deeper into machine learning and complex systems.
-
-  As a curious person, I like to explore new horizons and try out the latest tools. 
-  In my free time, I enjoy reading, drinking coffee, making techno music, playing basketball and chess.
+Linux | coffee | music | reading | neuroscience | philosophy | chess | basketball
 </div>
 
 <br>
