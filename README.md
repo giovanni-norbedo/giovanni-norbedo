@@ -28,7 +28,7 @@ First-year student in Artificial Intelligence and Data Analytics at the Universi
 Coding enthusiast since age 10, proficient in web (Django, DRF, React) and mobile (Flutter) app development.  
 Active participant in penetration testing activities like Hack The Box and Capture The Flag challenges.  
   
-Linux | coffee | music | reading | neuroscience | philosophy | chess | basketball  
+Mathematics | Neuroscience | Philosophy | Reading | Chess | Music | Trip Hop | Vinyl Records | Linux | Coffee | Basketball
 </div>
 
 <br>
