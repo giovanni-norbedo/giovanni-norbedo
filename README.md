@@ -79,7 +79,3 @@ Coding enthusiast since age 10, proficient in web (Django, DRF, React) and mobil
 </div>
 
 <br>
-
-## I'm listening to...
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=beabj6zu0ir9c60jp4vqt1312&cover_image=true&theme=default&bar_color_cover=false" alt="Spotify Widget"/>
