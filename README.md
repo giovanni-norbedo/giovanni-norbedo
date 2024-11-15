@@ -24,7 +24,7 @@
 <br>
 
 <div>
-First-year student in Artificial Intelligence and Data Analytics at the University of Trieste.  
+I'm a student in Artificial Intelligence and Data Analytics at the University of Trieste.  
 Coding enthusiast since age 10, proficient in web (Django, DRF, React) and mobile (Flutter) app development.  
 </div>
 
