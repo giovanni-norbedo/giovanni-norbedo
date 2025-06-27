@@ -13,12 +13,6 @@
   <a href="mailto:norbedo@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8b89cc?style=for-the-badge&logo=ProtonMail&logoColor=white" alt="ProtonMail Badge"/>
   </a>
-  <a href="https://wakatime.com/@norbedo">
-    <img src="https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=fff&style=for-the-badge" alt="WakaTime Badge">
-  </a>
-  <a href="https://keybase.io/norbedo">
-    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=Keybase&logoColor=white" alt="Keybase Badge"/>
-  </a>
 </div>
 
 <br>
