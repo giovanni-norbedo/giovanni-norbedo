@@ -17,10 +17,8 @@
 
 <br>
 
-🎓 Artificial Intelligence & Data Analytics student @ University of Trieste  
-💻 Coding since I was 10 - web (Django, DRF, React) & mobile (Flutter)  
-⚙️ Tools are just tools. What really matters is mindset and problem-solving.  
-🧠 Perfectionist by nature, obsessed with clean code and best practices.  
-📦 Open source enthusiast - I believe in sharing knowledge and building in public.  
-🗂️ Well-organized, structured, and always aiming for long-term maintainability.  
-🔍 Constantly learning, iterating, and pushing things one step further.  
+🎓 AI & Data Analytics student @ UniTS (next up: Master's in Mathematics).
+💻 Practical background in web (Django, React) & mobile (Flutter).
+🔍 Currently exploring formal verification (Lean4) and computational neuroscience.
+🛠️ Big fan of Linux, open-source, and writing maintainable software.
+🌱 Aiming to understand the exact math behind modern ML models.
