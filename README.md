@@ -17,8 +17,8 @@
 
 <br>
 
-🎓 AI & Data Analytics student @ UniTS (next up: Master's in Mathematics).
-💻 Practical background in web (Django, React) & mobile (Flutter).
-🔍 Currently exploring formal verification (Lean4) and computational neuroscience.
-🛠️ Big fan of Linux, open-source, and writing maintainable software.
-🌱 Aiming to understand the exact math behind modern ML models.
+🎓 AI & Data Analytics student @ UniTS (next up: Master's in Mathematics).  
+💻 Practical background in web (Django, React) & mobile (Flutter).  
+🔍 Currently exploring formal verification (Lean4) and computational neuroscience.  
+🛠️ Big fan of Linux, open-source, and writing maintainable software.  
+🌱 Aiming to understand the exact math behind modern ML models.  
