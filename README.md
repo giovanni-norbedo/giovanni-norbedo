@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/norbedo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/norbedo">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
   <a href="mailto:norbedo@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8b89cc?style=for-the-badge&logo=ProtonMail&logoColor=white" alt="ProtonMail Badge"/>
   </a>
