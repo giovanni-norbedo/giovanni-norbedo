@@ -17,3 +17,5 @@
 AI & Data Analytics student @ UniTS
 
 More on my website: [norbedo.xyz](https://norbedo.xyz)
+
+[![Gio's GitHub stats](https://github-stats-extended.vercel.app/api?username=giovanni-norbedo)](https://github.com/stats-organization/github-stats-extended)
