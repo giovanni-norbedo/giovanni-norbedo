@@ -15,3 +15,5 @@
 <br>
 
 AI & Data Analytics student @ UniTS
+
+More on my website: [norbedo.xyz](https://norbedo.xyz)
