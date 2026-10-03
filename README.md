@@ -14,7 +14,9 @@
 
 <br>
 
-AI & Data Analytics student @ UniTS
+M.Sc. Student in Data Science & Artificial Intelligence @ UniTS
+
+Università degli Studi di Trieste · Trieste, Italy
 
 More on my website: [norbedo.xyz](https://norbedo.xyz)
 
