@@ -16,7 +16,7 @@
 
 M.Sc. Student in Data Science & Artificial Intelligence @ UniTS
 
-Curriculum FOUNDATIONS OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+Curriculum in Foundation of Artificial Intelligence and Machine Learning
 
 Università degli Studi di Trieste · Trieste, Italy
 
