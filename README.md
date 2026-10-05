@@ -21,5 +21,3 @@ Curriculum in Foundation of Artificial Intelligence and Machine Learning
 Università degli Studi di Trieste · Trieste, Italy
 
 More on my website: [norbedo.xyz](https://norbedo.xyz)
-
-[![Gio's GitHub stats](https://github-stats-extended.vercel.app/api?username=giovanni-norbedo)](https://github.com/stats-organization/github-stats-extended)
