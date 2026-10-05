@@ -14,7 +14,7 @@
 
 <br>
 
-M.Sc. Student in Data Science & Artificial Intelligence @ UniTS
+**M.Sc. Student in Data Science & Artificial Intelligence @ UniTS**
 
 Curriculum in Foundation of Artificial Intelligence and Machine Learning
 
