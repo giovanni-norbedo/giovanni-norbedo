@@ -21,3 +21,4 @@ Curriculum in Foundation of Artificial Intelligence and Machine Learning
 Università degli Studi di Trieste · Trieste, Italy
 
 More on my website: [norbedo.xyz](https://norbedo.xyz)
+Email: [norbedo@proton.me](mailto:norbedo@proton.me)
