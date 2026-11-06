@@ -1,4 +1,4 @@
-## > Hi there 👋
+# > Hi there 👋
 
 <div>
   <a href="https://norbedo.xyz">
@@ -14,11 +14,11 @@
 
 <br>
 
-**M.Sc. Student in Data Science & Artificial Intelligence @ UniTS**
+## M.Sc. Student in Data Science & Artificial Intelligence @ UniTS
 
-Curriculum in Foundation of Artificial Intelligence and Machine Learning
+### Curriculum in Foundation of Artificial Intelligence and Machine Learning
 
-Università degli Studi di Trieste · Trieste, Italy
+#### Università degli Studi di Trieste · Trieste, Italy
 
 More on my website: [norbedo.xyz](https://norbedo.xyz)  
 Email: [norbedo@proton.me](mailto:norbedo@proton.me)
