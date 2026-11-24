@@ -20,5 +20,5 @@
 
 #### Università degli Studi di Trieste · Trieste, Italy
 
-More on my website: [norbedo.xyz](https://norbedo.xyz)  
+My website: [norbedo.xyz](https://norbedo.xyz)  
 Email: [norbedo@proton.me](mailto:norbedo@proton.me)
